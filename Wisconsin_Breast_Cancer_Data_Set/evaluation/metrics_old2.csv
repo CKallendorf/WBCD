@@ -1,0 +1,1305 @@
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9497041420118343
+Sensitivity ,0.9
+Specitivity ,0.9807692307692307
+Recall,0.9669421487603306
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0.1
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,10
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0.1
+reg_lambda,1
+scale_pos_weight,1
+subsample,1
+tree_method,hist
+validate_parameters,1
+verbosity,
+eta,0.4
+eval_metric,mae
+grow_policy,depthwise
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.01
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.01
+eval_metric,rmse
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.01
+eval_metric,error
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.01
+eval_metric,mlogloss
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.01
+eval_metric,mlogloss
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.1
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0.5
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,1
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.905511811023622
+Specitivity ,0.9715639810426541
+Recall,0.9504132231404959
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,5
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,exact
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9408284023668639
+Sensitivity ,0.9105691056910569
+Specitivity ,0.958139534883721
+Recall,0.9256198347107438
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,approx
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9408284023668639
+Sensitivity ,0.9105691056910569
+Specitivity ,0.958139534883721
+Recall,0.9256198347107438
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,hist
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,exact
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,approx
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,hist
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0.5
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,hist
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,1
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,hist
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,hist
+validate_parameters,1
+verbosity,
+eta,0.01
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,hist
+validate_parameters,1
+verbosity,
+eta,0.01
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9467455621301775
+Sensitivity ,0.8992248062015504
+Specitivity ,0.9760765550239234
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,exact
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9408284023668639
+Sensitivity ,0.9105691056910569
+Specitivity ,0.958139534883721
+Recall,0.9256198347107438
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,approx
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9408284023668639
+Sensitivity ,0.9105691056910569
+Specitivity ,0.958139534883721
+Recall,0.9256198347107438
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,hist
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9408284023668639
+Sensitivity ,0.9105691056910569
+Specitivity ,0.958139534883721
+Recall,0.9256198347107438
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gbtree
+colsample_bylevel,1
+colsample_bynode,1
+colsample_bytree,1
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,()
+n_estimators,100
+n_jobs,0
+num_parallel_tree,1
+random_state,0
+reg_alpha,0
+reg_lambda,1
+scale_pos_weight,
+subsample,1
+tree_method,hist
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,approx
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mae
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,mlogloss
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,rmse
+Evaluation metrics using ,XGBRegressor
+Accuracy ,0.9674556213017751
+Sensitivity ,0.9508196721311475
+Specitivity ,0.9768518518518519
+Recall,0.9586776859504132
+Estimator parameters: 
+objective,binary:hinge
+base_score,0.5
+booster,gblinear
+colsample_bylevel,
+colsample_bynode,
+colsample_bytree,
+gamma,0
+gpu_id,-1
+importance_type,gain
+interaction_constraints,
+learning_rate,0.8
+max_delta_step,0
+max_depth,6
+min_child_weight,1
+missing,nan
+monotone_constraints,
+n_estimators,100
+n_jobs,0
+num_parallel_tree,
+random_state,0
+reg_alpha,0
+reg_lambda,0
+scale_pos_weight,
+subsample,
+tree_method,auto
+validate_parameters,1
+verbosity,
+eta,0.3
+eval_metric,error
+Evaluation metrics using ,LinearLearner
+Accuracy ,0.9615384615384616
+Sensitivity ,0.95
+Specitivity ,0.9678899082568807
+Recall,0.9421487603305785
+Estimator parameters: 
+predictor_type,binary_classifier
+epochs,15
+feature_dim,9
+mini_batch_size,337
+Evaluation metrics using ,LinearLearner
+Accuracy ,0.878698224852071
+Sensitivity ,0.9878048780487805
+Specitivity ,0.84375
+Recall,0.6694214876033058
+Estimator parameters: 
+predictor_type,binary_classifier
+binary_classifier_model_selection_criteria,precision_at_target_recall
+target_recall,0.6
+epochs,50
+feature_dim,9
+mini_batch_size,337
+Evaluation metrics using ,LinearLearner
+Accuracy ,0.9615384615384616
+Sensitivity ,0.95
+Specitivity ,0.9678899082568807
+Recall,0.9421487603305785
+Estimator parameters: 
+predictor_type,binary_classifier
+binary_classifier_model_selection_criteria,precision_at_target_recall
+target_recall,0.96
+epochs,100
+feature_dim,9
+mini_batch_size,337
+Evaluation metrics using ,LinearLearner
+Accuracy ,0.9615384615384616
+Sensitivity ,0.95
+Specitivity ,0.9678899082568807
+Recall,0.9421487603305785
+Estimator parameters: 
+predictor_type,binary_classifier
+binary_classifier_model_selection_criteria,precision_at_target_recall
+target_recall,0.96
+epochs,100
+feature_dim,9
+mini_batch_size,337
+Evaluation metrics using ,LinearLearner
+Accuracy ,0.9615384615384616
+Sensitivity ,0.95
+Specitivity ,0.9678899082568807
+Recall,0.9421487603305785
+Estimator parameters: 
+predictor_type,binary_classifier
+binary_classifier_model_selection_criteria,precision_at_target_recall
+target_recall,0.96
+epochs,100
+feature_dim,9
+mini_batch_size,337
+Evaluation metrics using ,LinearLearner
+Accuracy ,0.9585798816568047
+Sensitivity ,0.9495798319327731
+Specitivity ,0.9634703196347032
+Recall,0.9338842975206612
+Estimator parameters: 
+predictor_type,binary_classifier
+binary_classifier_model_selection_criteria,recall_at_target_precision
+target_precision,0.97
+epochs,100
+feature_dim,9
+mini_batch_size,337
+Evaluation metrics using ,LinearLearner
+Accuracy ,0.9585798816568047
+Sensitivity ,0.9495798319327731
+Specitivity ,0.9634703196347032
+Recall,0.9338842975206612
+Estimator parameters: 
+predictor_type,binary_classifier
+binary_classifier_model_selection_criteria,recall_at_target_precision
+target_precision,0.97
+epochs,100
+feature_dim,9
+mini_batch_size,337
+Evaluation metrics using ,LinearLearner
+Accuracy ,0.9615384615384616
+Sensitivity ,0.95
+Specitivity ,0.9678899082568807
+Recall,0.9421487603305785
+Estimator parameters: 
+Evaluation metrics using ,NoneType
+Accuracy ,0.9615384615384616
+Sensitivity ,0.95
+Specitivity ,0.9678899082568807
+Recall,0.9421487603305785
+Estimator parameters: 
+Evaluation metrics using ,LinearLearnerPredictor
+Accuracy ,0.9615384615384616
+Sensitivity ,0.95
+Specitivity ,0.9678899082568807
+Recall,0.9421487603305785
+Estimator parameters: 
+Evaluation metrics using ,LinearLearner
+Accuracy ,0.9585798816568047
+Sensitivity ,0.9495798319327731
+Specitivity ,0.9634703196347032
+Recall,0.9338842975206612
+Estimator parameters: 
+Evaluation metrics using,Estimator
+Accuracy,0.9704142011834319
+Specitivity,0.9791666666666666
+Recall,0.9722222222222222
+Estimator parameters:
+_tuning_objective_metric,validation:rmse
+booster,"""gbtree"""
+eta,0.31401836400056005
+eval_metric,"""rmse"""
+gamma,0.18198967085004925
+max_depth,5
+num_round,200
+objective,"""binary:hinge"""
+sagemaker_container_log_level,20
+sagemaker_enable_cloudwatch_metrics,false
+sagemaker_estimator_class_name,"""XGBoost"""
+sagemaker_estimator_module,"""sagemaker.xgboost.estimator"""
+sagemaker_job_name,"""sagemaker-xgboost-2020-08-11-10-56-58-948"""
+sagemaker_program,"""train.py"""
+sagemaker_region,"""eu-central-1"""
+sagemaker_submit_directory,"""s3://sagemaker-eu-central-1-237055357929/sagemaker-xgboost-2020-08-11-10-56-58-948/source/sourcedir.tar.gz"""
+tree_method,"""auto"""
+Evaluation metrics using,Transformer
+Accuracy,0.9704142011834319
+Specitivity,0.9791666666666666
+Recall,0.9722222222222222
+Estimator parameters:
+Evaluation metrics using,XGBRegressor
+Accuracy,0.9585798816568047
+Specitivity,0.9787234042553191
+Recall,0.9722222222222222
+Estimator parameters:
+Estimator_Obj,unknown estimator
+Evaluation metrics using,XGBRegressor
+Accuracy,0.9585798816568047
+Specitivity,0.9787234042553191
+Recall,0.9722222222222222
+Estimator parameters:
+Evaluation metrics using,XGBRegressor
+Accuracy,0.9585798816568047
+Specitivity,0.9787234042553191
+Recall,0.9722222222222222
+Estimator parameters:
