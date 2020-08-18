@@ -54,21 +54,24 @@ if __name__ == '__main__':
     parser.add_argument('--test', type=str, default=os.environ.get('SM_CHANNEL_TEST'))
     #args = parser.parse_args()
     args, _ = parser.parse_known_args()
+    
     print("Done parsing arguments.")
    
     dtrain = get_dmatrix(args.train, 'csv') 
+    print(args.train)
     dval = get_dmatrix(args.validation, 'csv')
     if dval is not None:
         watchlist = [(dtrain, 'train'), (dval, 'validation')]  
     else: 
         watchlist= [(dtrain, 'train')]
+        print("Dval is none")
     #watchlist = [(dtrain, 'train'),(dval, 'validation')]
     print("Done defining data and host information.")
     
     sm_hosts = json.loads(args.sm_hosts)
     sm_current_host = args.sm_current_host
     print("Done loading hosts.")
-   
+    
     train_hp = {
         'n_estimators':args.num_round, 
         'max_depth': args.max_depth,
@@ -80,6 +83,7 @@ if __name__ == '__main__':
         'tree_method':args.tree_method
     }
     print("Done setting up hyperparams")
+
     xgb_train_args = dict(
         params=train_hp,
         dtrain=dtrain,
@@ -87,7 +91,7 @@ if __name__ == '__main__':
         num_boost_round=args.num_round,
         model_dir=args.model_dir
     )
-    print("Done training")
+
     
     if len(sm_hosts) > 1:
         # Wait until all hosts are able to find each other
